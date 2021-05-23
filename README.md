@@ -18,3 +18,7 @@ Projeyi indirdikten sonra şu komutlar ile visual studio code programında açab
 cd projeDosyaAdi
 code .
 ```
+
+## Project Github Page SS
+
+![Kodluyoruzilkrepo](./kodluyoruzilkrepo.png)
